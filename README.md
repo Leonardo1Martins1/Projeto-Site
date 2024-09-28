@@ -1,6 +1,6 @@
 # Projeto-Site
 
-Projeto País Macedônia 
+Projeto: País Macedônia 
 
 Esse projeto foi elaborado com HTML e CSS.
 
